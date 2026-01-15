@@ -1,7 +1,5 @@
 # Phishing-email-Analysis
 
-# **Day#21- Introduction to Phishing Analysis**
-
 ---
 
 ## 🎯 **Lab Objective**
@@ -73,6 +71,7 @@ Learn how to analyze a phishing email by examining headers, body, URLs, and atta
 
 ---
 
+
 ## 📎 **Suspicious Email Attachment Indicators**
 
 | **Indicator**                         | **Example**                                  |
@@ -97,6 +96,3 @@ Now, please answer below question
 
 Question 1: What is the reputation of the domain?
 
-
-### Submission
-- Share the snapshot showing the reputation of teh domain
